@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Pascal Sun"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "From Momentary Spark to Eternal Intelligence"
   location         : "Perth, Australia"
   employer         : "University of Western Australia"
-  uri              : # URL
-  email            : "pascal.sun@research.uwa.edu.au" 
+  uri              : "https://www.linkedin.com/in/pascalsun23/"
+  email            : "pascal.sun@research.uwa.edu.au"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,8 +45,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "pascalsun"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # # Replace this with you Bluesky username
@@ -79,7 +79,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
   preprints:
