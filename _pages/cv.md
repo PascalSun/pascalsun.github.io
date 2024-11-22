@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +10,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* Doctor of Philosophy in Computer Science, The University of Western Australia, 2022-current
+* Bachelor of Science in Computer Science, The University of Western Australia, 2021-2021
+* Master of Information Technology, The University of Western Australia, 2016-2017
+* Bachelor of Engineering in Nuclear Engineering and Technology, North China Electric Power University, 2011-2015
+
+Awards
+======
+
+* **Best Demo Paper Award at EMNLP**, 2024
+* **STUDENTS CHOICE AWARD FOR ACADEMIC OR PROFESSIONAL STAFF PROGRAMS THAT ENHANCE LEARNING**, 2023
+* **Best Research Paper Award at AusDM**, 2022
+* **Finalist for the 31st INCITE Awards (Research & Innovation Project of the Year)**, 2022
+* **2021-2022 Finalist for ACS WA Dennis Moore 1962 Prize**, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Full Stack Developer, Artrya, 2021-2023
+    * Lead the re-architecture of the AI based coronary artery disease evaluation
+      platform, [Salix](https://www.artrya.com/physicians/)
+    * Get the whole platform ready for commercial launch
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Full Stack Developer, MetroCount, 2019-2021
+    * Develop and successfully commercialize the revolutionary traffic data management
+      platform, [ATLYST](https://www.metrocount.com/atlyst)
+    * And the revolutionary Real-Time traffic data collection
+      solution, [RoadPod VM](https://www.metrocount.com/traffic-counters-classifiers/roadpod-vm)
+
+* Full Stack Developer, Sheda, 2018-2019
+    * Support the development of several startup projects
+    * [HealthDelivered](https://www.healthdelivered.com.au/): A platform for dietitians to manage their patients
+    * Jean: Posts (images and text) generation used for Facebook pages admin
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
