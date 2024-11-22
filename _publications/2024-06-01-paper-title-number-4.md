@@ -6,7 +6,7 @@ permalink: /publication/2024-06-01-paper-title-number-4
 excerpt: 'Uncovering Knowledge from Chaos'
 date: 2024-06-01
 venue: 'Preprint'
-slidesurl: 'http://academicpages.github.io/files/Docs2KG.pdf'
+slidesurl: 'https://pascalsun.github.io/files/Docs2KG.pdf'
 paperurl: 'https://arxiv.org/pdf/2406.02962'
 citation: 'Sun, Q., Luo, Y., Zhang, W., Li, S., Li, J., Niu, K., Kong, X., & Liu, W. Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models. arXiv:2406.02962 [cs.CL].'
 ---

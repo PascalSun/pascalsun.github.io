@@ -6,7 +6,7 @@ permalink: /publication/2024-04-25-paper-title-number-2
 excerpt: 'An Empirical Survey from the Data Fitness Perspective'
 date: 2024-04-25
 venue: 'Pacific-Asia Conference on Knowledge Discovery and Data Mining'
-slidesurl: 'http://academicpages.github.io/files/PAKDD___Are_Graph_Embeddings_the_Panacea_.pdf'
+slidesurl: 'https://pascalsun.github.io/files/PAKDD___Are_Graph_Embeddings_the_Panacea_.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-2253-2_32'
 citation: 'Sun, Q., Huynh, D.Q., Reynolds, M., Liu, W. (2024). Are Graph Embeddings the Panacea?. In: Yang, DN., Xie, X., Tseng, V.S., Pei, J., Huang, JW., Lin, J.CW. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2024. Lecture Notes in Computer Science(), vol 14646. Springer, Singapore. https://doi.org/10.1007/978-981-97-2253-2_32'
 ---

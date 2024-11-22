@@ -6,7 +6,7 @@ permalink: /publication/2024-11-12-paper-title-number-3
 excerpt: 'Best Demo Paper Award at EMNLP 2024 (Demo Track)'
 date: 2024-11-12
 venue: 'Empirical Methods in Natural Language Processing'
-slidesurl: 'http://academicpages.github.io/files/EMNLP_Demo__OpenOmni_Benchmark.pdf'
+slidesurl: 'https://pascalsun.github.io/files/EMNLP_Demo__OpenOmni_Benchmark.pdf'
 paperurl: 'https://aclanthology.org/2024.emnlp-demo.5'
 citation: '[OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents](https://aclanthology.org/2024.emnlp-demo.5) (Sun et al., EMNLP 2024)'
 ---

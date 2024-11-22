@@ -6,7 +6,7 @@ permalink: /publication/2022-12-05-paper-title-number-1
 excerpt: 'Best Research Paper Award at AusDM 2022'
 date: 2022-12-05
 venue: 'Australasian Conference on Data Mining'
-slidesurl: 'http://academicpages.github.io/files/PhD_Graph_Embeddings_for_Non_IID_Data_Feature_Representation_Learning.pdf'
+slidesurl: 'https://pascalsun.github.io/files/PhD_Graph_Embeddings_for_Non_IID_Data_Feature_Representation_Learning.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-8746-5_4'
 citation: 'Sun, Q., Liu, W., Huynh, D., Reynolds, M. (2022). Graph Embeddings for Non-IID Data Feature Representation Learning. In: Park, L.A.F., et al. Data Mining. AusDM 2022. Communications in Computer and Information Science, vol 1741. Springer, Singapore. https://doi.org/10.1007/978-981-19-8746-5_4'
 ---
