@@ -12,7 +12,7 @@ Education
 ======
 
 * Doctor of Philosophy in Computer Science, The University of Western Australia, 2022-current
-* Bachelor of Science in Computer Science, The University of Western Australia, 2021-2021
+* Bachelor of Science in Computer Science (Honour), The University of Western Australia, 2021-2021
 * Master of Information Technology, The University of Western Australia, 2016-2017
 * Bachelor of Engineering in Nuclear Engineering and Technology, North China Electric Power University, 2011-2015
 
