@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the University of Western Australia.
+I am currently a Ph.D. candidate at the University of Western Australia.
 My research interests include knowledge graph construction, natural language processing, knowledge graph embedding,
 knowledge graph enhanced retrieval augmented generation, knowledge graph reasoning, multimodal large language models,
 and knowledge discovery from unstructured data.
