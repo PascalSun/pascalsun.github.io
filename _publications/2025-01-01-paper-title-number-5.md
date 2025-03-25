@@ -1,7 +1,7 @@
 ---
 title: "TriagedMSA: Triaging Sentimental Disagreement in Multimodal Sentiment Analysis"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-11-12-paper-title-number-5
 date: 2025-01-01
 venue: 'IEEE Transactions on Affective Computing'
