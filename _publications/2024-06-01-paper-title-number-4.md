@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024-06-01-paper-title-number-4
 excerpt: 'Uncovering Knowledge from Chaos'
-date: 2024-06-01
-venue: 'Preprint'
+date: 2025-04-23
+venue: 'WWW 25: Companion Proceedings of the ACM on Web Conference 2025'
 slidesurl: 'https://dl.acm.org/doi/pdf/10.1145/3701716.3715309'
 paperurl: 'https://dl.acm.org/doi/10.1145/3701716.37153092'
 citation: 'Qiang Sun, Yuanyi Luo, Wenxiao Zhang, Sirui Li, Jichunyang Li, Kai Niu, Xiangrui Kong, and Wei Liu. 2025. Docs2KG: A Human-LLM Collaborative Approach to Unified Knowledge Graph Construction from Heterogeneous Documents. In Companion Proceedings of the ACM on Web Conference 2025 (WWW 25). Association for Computing Machinery, New York, NY, USA, 801–804. https://doi.org/10.1145/3701716.3715309'
