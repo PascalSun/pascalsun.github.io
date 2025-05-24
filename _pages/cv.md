@@ -19,6 +19,7 @@ Education
 Awards
 ======
 
+* **Commendation Award - Team for outstanding contributions to student learning**, 2025
 * **Best Demo Paper Award at EMNLP**, 2024
 * **STUDENTS CHOICE AWARD FOR ACADEMIC OR PROFESSIONAL STAFF PROGRAMS THAT ENHANCE LEARNING**, 2023
 * **Best Research Paper Award at AusDM**, 2022
